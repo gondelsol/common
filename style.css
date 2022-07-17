@@ -1,0 +1,67 @@
+* {
+    margin: 0%;
+    padding: 0%;
+}
+
+body {
+    background-image: url(./images/blob-scene-haikei.svg);
+    background-size: cover;
+    background-position: top;
+}
+
+h1 {
+    font-family: Arial;
+    font-size: 45px;
+    text-align: center;
+}
+
+h2 {
+    font-family: Helvetica;
+    font-size: 30px;
+    text-align: center;
+}
+
+p{
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+.box {
+    margin-top: 15px;
+}
+
+.team {
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.card {
+    margin: 10px;
+}
+
+
+footer {
+    margin-top: 15px;
+    text-align: right;
+    font-family:sans-serif;
+    font-size: 15px;
+
+}
+
+.redes {
+
+    text-align: center;
+    font-size: 30px;
+
+}
+
+i {
+    margin-left: 50px;
+
+}
+
+ul li {
+    list-style: none;
+    padding-right: 20%;
+    }
